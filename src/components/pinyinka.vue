@@ -26,7 +26,7 @@
     <div>
       <mu-dialog :open="dialog" @close="close">
         <div>完整版需购买产品后开通！</div>
-        <div class="sail"><a href="http://shop111181.top/OmTaT0">点右上角，分享到微信朋友圈，凭朋友圈截图，立享3元店铺无门槛优惠券</a></div>
+        <!--<div class="sail"><a href="http://shop111181.top/OmTaT0">点右上角，分享到微信朋友圈，凭朋友圈截图，立享3元店铺无门槛优惠券</a></div>-->
         <mu-flat-button label="确定" slot="actions" style="color: #a44902;" @click="close"/>
       </mu-dialog>
     </div>
